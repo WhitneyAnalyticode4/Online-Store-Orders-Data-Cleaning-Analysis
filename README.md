@@ -76,7 +76,7 @@ The cleaned dataset now contains:
 
 #  Dashboard Preview
 
-![Dashboard](271DC455-C070-4A70-B509-63792062F948.jpeg)
+![Dashboard](6811339C-1BA6-4859-8410-4792582792A9.jpeg)
 
 ## Key Takeaway
 This project reinforced the importance of proper data cleaning before building dashboards or generating insights. Even small inconsistencies can significantly affect reporting accuracy and business decisions.
